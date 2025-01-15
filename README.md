@@ -1,6 +1,8 @@
 # Analyze how educational videos differ in popularity from entertainment videos.
 
 This project analyzes the popularity differences between educational and entertainment videos. It is part of the Data Engineering course project. The work begins by collecting data for analysis from two sources: YouTube API and Kaggle Dataset. The data is stored in MongoDB to gradually collect more than 5000 records from the YouTube API. Once the data is complete, it is transformed and cleaned before plotting graphs to observe trends and differences to summarize the analysis results.
+## Presentation
+For more detailed information, please refer to the [Presentation.pdf](./Presentation.pdf)
 
 ## Summary of Findings
 
