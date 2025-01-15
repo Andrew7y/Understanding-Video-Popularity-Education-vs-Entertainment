@@ -6,7 +6,7 @@ This project analyzes the popularity differences between educational and enterta
  - **นายคณิศร ร้อยศรี** รหัสนักศึกษา 653380121-0
 
 ## Presentation
-For more detailed information, please refer to the [Presentation.pdf](./Presentation.pdf)
+For more detailed information, please refer to the presentation [Here](./Presentation.pdf)
 
 ## Summary of Findings
 
